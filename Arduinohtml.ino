@@ -4,8 +4,8 @@ Build by fairy-elab: 19-02-2021
 
 #include <WiFi.h>
 
-const char *ssid = "AcePoi19216841";
-const char *password = "0987654321";
+const char *ssid = "you enter in";
+const char *password = "you enter in";
 
 WiFiServer server(80);
 
