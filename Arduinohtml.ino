@@ -4,6 +4,7 @@ Build by fairy-elab: 19-02-2021
 
 #include <WiFi.h>
 
+//Define your access point
 const char *ssid = "you enter in";
 const char *password = "you enter in";
 
